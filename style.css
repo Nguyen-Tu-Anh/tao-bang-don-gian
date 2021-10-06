@@ -1,0 +1,14 @@
+#dong1 {
+    background-color: yellow;
+}
+table {
+    border-collapse: collapse;
+
+}
+th {
+    height: 25px;
+}
+td {
+    width: 130px;
+    height: 30px;
+}
